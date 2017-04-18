@@ -1,0 +1,1207 @@
+[ 2017-04-18T09:13:05+08:00 ] ::1 /ScanPay/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000608s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000643s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000028s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000061s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004254s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004295s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000524s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000552s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000585s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000613s ]
+
+[ 2017-04-18T09:15:04+08:00 ] ::1 /ScanPay/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000430s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000543s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000590s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000075s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000127s ]
+NOTIC: [2] require_once(model/builder/AlipayTradePrecreateContentBuilder.php): failed to open stream: No such file or directory E:\wwwroot\scanPay\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+
+[ 2017-04-18T09:18:02+08:00 ] ::1 /ScanPay/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000358s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000447s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000488s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000070s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000131s ]
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/1a/1f/1a1f394876ef4d1475f6ae1ee7156217.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/bc/49/bc49f3f54fdd327f92f4bd972b403771.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/dc/aa/dcaa0618604db5b1bdcd2b0306705bd2.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/f5/48/f5486b3332cea157a04a20cd853f0ff0.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/cb/b9/cbb92ac1817820f2d0461b70d776f8f6.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/46/e9/46e9b90997ea7954278b56e675bc1eb8.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/7e/b0/7eb0e10f5464ce5ede4d2d8e8eba54f0.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/23/49/2349adc96c4528088a3ded5a1c50c151.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/9d/cf/9dcff5b883df4db893f7088e8fbddc42.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/19/42/1942d6fd3d233c07d1158830375c7c33.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/bd/b8/bdb838d46f516ce55d8dbc589a81f097.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/c1/37/c13739f084c6c551d4b9f42728a0cea9.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/c1/ae/c1aebe110990f694ec2f811493af5f43.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/0b/c7/0bc7099c32b5579cd2eaec95abd3c488.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/b9/33/b933269f0ceaf2a9534eab4803746572.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/8d/c0/8dc0fce28580a9ab3a170aa56de9764b.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/49/96/4996861594f56f748482d431cdfd0897.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/1a/2f/1a2f93febc7c28907da376a2abd86ca0.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/7f/6f/7f6ff782a086c69e2c8bbcd38e49dae7.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/0c/a9/0ca9033e3fc18abe0a47e42795280a84.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/59/c4/59c493d98d47fd11c52fba10db4866be.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/66/c7/66c7e9ee5900d307e1dcf22dfc18ae80.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/a2/5f/a25f64cd8b96336c527654f347b6c215.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/25/2f/252f3d020a95cb60e7cc9e5cbd832ceb.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/18/bf/18bf31ad0533eaaa0046f92708040dc5.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/f0/7f/f07f5991954c959715bf62cc65208391.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/cb/02/cb024e7354be8fa553147b1c90ff4bab.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/91/6a/916aec40f06b0ac398afbad377053e70.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/bb/67/bb67e48de69349448d006b803d015900.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/84/da/84da8fb4fc92787c6c7f5fbf081d7502.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/30/33/3033db391d73deafdf3f23b143a4bc65.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/cd/68/cd685a2f29120608cff2bb2ea15a196e.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/d6/3e/d63eb638e128d2eef62249b9f1227042.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/ec/26/ec26692e6fdb3b95a57ca3c4b4344279.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/83/fc/83fc973108f6b7b26d8ba045e254e914.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/18/fe/18fe576bdc90c7fd1bbac82361c3714e.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/a7/b5/a7b5c7526f2f742e0f4840397ee55013.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/32/64/3264a813d5dcc0edc9942e9d4c71db7c.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/3e/bb/3ebb67d50b82bf91a1a848f7f9d9f1de.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/fa/9e/fa9e6b159e80737bb552dced89bfc3f5.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/c6/78/c678644af599aebbebc568d2693da1fe.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/c8/20/c820a9b4e620c2f3ff2c1075b5b75154.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/b5/05/b505def35492e6c80549f6f638a77b51.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/a3/3b/a33b4772835edc536ca3e71df27ddef0.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/38/ad/38ade403c1323ab968a1c7356cd80c46.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/45/0a/450a4233c3437b0d83555bf6a050b85c.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/42/48/42489da185801207b15c044bef0b41c3.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/b8/b6/b8b6faf34eab31ee45f051d17edf8c6f.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/93/07/93074b62511a15bd01a2d1bb13659a1e.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/ee/49/ee49e0cebdf1626c2bc0cbf9ba685dce.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/f9/2f/f92f5f9c33dc59aba6a817c85922a6ba.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/d8/e2/d8e28cf6dddfde81658e95601f1abec0.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/e8/71/e87101aa0d98f45fc7a5e86edf3bffab.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/7b/42/7b4229b8792b53b7966b7b3d74a85c21.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/4a/54/4a540921ae083f526e4f3dd48a3cfbf0.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/f0/f7/f0f7b164b81158cc527449ccfb622dcb.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/0a/c5/0ac5d4b55717e90ea215ed44261be1c3.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/76/0d/760db35f9a8c17f605b1ffda3a86cb12.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/5d/8b/5d8ba8da8d10ba13f6e4c254dc546855.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/4d/59/4d59ac871e90173589402459b491e7cb.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/b9/dd/b9dd339c8e9a40ca14fc571159e47ce3.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/9e/e1/9ee11bde1e30d6dd9ae48d4462340b6a.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/55/08/5508f1f3161d4f817445fed5460523f7.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/e3/2d/e32d7202a073044b25c718e665424ed4.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/76/b8/76b868401d00520393606aafe9513af6.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/a8/82/a882b325685f2725c4487af8825c4322.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/d8/9d/d89dc75124ab78a20c22133d04119038.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/2c/fd/2cfdca54b95d86ca9fc0ba3bb24c1f2a.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/3e/2d/3e2d24421e2cc986c901424098cbd028.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/7a/7e/7a7e97e7db5d6f20797dc921226aba20.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/ca/fd/cafd4676b237ebbe4ecae8ee8baa55f1.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/f0/dd/f0ddd058ff4144e9c67a53fc3af46b30.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/00/4b/004bcf6111956ba91adb099857815f2f.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/b3/2b/b32bc7f7cc2cf1111177eae1bbd2e6b8.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/c1/67/c167f3d8b8834be68a06e0a696ab3e86.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/85/14/8514c34af03b19a07fe5fc51314f3f20.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/89/81/8981b242459a3a0a914c203e17279b54.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/7f/9f/7f9f71f3aab0457394ea6bfaa5b46281.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/c3/08/c308ab93b855abf6b216c6047d0eae60.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/23/06/23066266c31a5fa076a59a647eda852c.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/d9/e1/d9e1b5a6c93428b96c940289af476a86.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/d1/5d/d15dd1488b8ced20c6239d7f41a2eab1.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/16/ca/16ca79860c8edab6a78951441733f0aa.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/e1/6a/e16a994bdaf08e2e98bb49d01146a69f.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/1d/f3/1df3ba2a0dc3628cb255cafa18d315a1.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/4b/9b/4b9bd7d07fd181bf926a867eb325ae04.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/5f/72/5f72bbc070e3ae9342ebf6bb2bded1ed.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/c6/ae/c6ae01e773ce5c54978a7cbed9ade8a3.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/10/65/1065318047eb5fa992300f6ccbf12f7b.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/15/64/156441ba411e8bd14848babb6ba3d058.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/78/3d/783dbe91e991049f66ed74537830763b.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/67/83/6783f51ca20d76bfe613fda94a4df0d9.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/a9/c9/a9c99c82e9532cd2d96ad231786c2f94.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/fa/62/fa625c72c655a99d84d2d064ba5ee9ec.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/19/da/19da205a0b1d95ae5a66dc40a4dda06e.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/c9/0d/c90de3cef495cae7a4dc7bb7054c4f54.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/ef/18/ef182f9e6c04ec908e11b429b0dccb0b.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/45/56/45569d7894da2021cc366a60590d18c7.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/e1/4a/e14a805c8dc883329156011cb8728c5d.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/81/59/8159d08c8beeb9d42ac982c060a1149e.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/0e/67/0e67b412f093e9cf3fdd980f90eb7865.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/1b/bd/1bbdf6053995bcfb84de0226a4024b44.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/e3/01/e301ba7ac3fb1cec206652284987f11d.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/94/61/946114229c2d397931b8bfa976e3c0a6.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/6e/32/6e3222b0ee8f57ef770bd3ac1702af79.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/3c/bd/3cbd2c52bd660756b3fa6c3f66201071.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/44/00/44001d08637eb55cfabdb6e93bc75ebd.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/55/fc/55fc7de9cd1a1f36dda5449d62904e41.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/bb/ee/bbee6be5a8c0ed2f518897694e5087eb.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/50/5b/505bfcbca66f83cf2d37103c221812f7.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/0d/3a/0d3ab434f41b7e51e4eff9ed6c6d27dd.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/83/e3/83e3a65c5642e68a1fdea7ca5a9c7ee2.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/64/2f/642f747abb585d30dcbb0b621990ce4d.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/3c/c3/3cc332187dcc7d7fe86ccc3e9de1a568.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/c2/5c/c25c8c77a75f5c4131fa643873993681.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/42/24/4224b6375d10e7ad37a323e3a4708594.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/cf/4e/cf4e41ee39930c21f631661d1060fb90.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/d3/77/d37767e5ce4275ccc887d5c70b9bfa0f.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/c7/fc/c7fcf65dfe13857af5a4745c6253d01f.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/58/d9/58d9c5b75623916ba988a6d2df6338f0.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/64/f1/64f12fff0bfb81cb2c6c5fe288a0b090.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/b6/8a/b68a8670555307dbcae170fdb165b2a2.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/59/65/59650bcbdf60f1f2dc0ddc563231e565.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/16/ee/16ee751210517f879d89476e4541ce44.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/02/26/022673554758d33271ba59003e409d09.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/5a/3e/5a3e1b340fab63a8408ab0f98fb2acf3.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/b9/8f/b98f220e40c259485ffa61622c78d0e6.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/28/da/28daa966b58ed2478dce42aba4d7fd79.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/0f/90/0f90e795fa9a730ad5ddec297315e1f7.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/30/60/30604561b84e99659b89eb1d30a8d17b.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/4c/5e/4c5e07e85f3b5dd359007699eef4e1bc.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/0d/07/0d075a6b832cd940e407d72a428fb086.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/c1/40/c1406e230c50c0890d40ac35d8a9e3bd.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/ca/55/ca5592c2680dda1c8b52fd7a52592952.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/c3/48/c348af0c426f280ee5c3a1a4b2d20482.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/8c/78/8c78ca37bd4875ae19153212ef30ff8b.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/50/23/5023509f385d8d8b0394863af36dbde9.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/71/36/71361878f86b8e1cc586840e5a279f44.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/5b/e2/5be2f97db2d19e72e647bd360a44e4ae.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/e4/a4/e4a40726c204717452b174e601cc45cd.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/e4/06/e4064769f28d17f7349df1c3aa8680c7.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/0a/54/0a54d75311586a4b578cd5db262894db.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/fd/26/fd26b3303e8c974c66f8848112924961.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/33/b6/33b689a96ce067f0f46e33be0dc427fe.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/1d/19/1d1938d8f181c3902e0749da5d1d0fa7.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/05/82/0582247ee0498a30d7e06020fa86989b.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/f6/6d/f66db6fc2c6ac4a2bdcd6fade9e55503.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/1a/7a/1a7afff26dae63d9424d24e441768217.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/a4/f4/a4f497f90605b1bca04871239d792a77.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/ef/2b/ef2be8bf9b413ee45aba551ca53a3efd.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/2d/80/2d80863429d7373d9f5e6226a1781617.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/20/55/205594c0c15add79976659ef6ead04ec.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/bf/c5/bfc5e2fa4b540ddadf03dffa579ec2fd.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/e3/c3/e3c3bceca2cf1b8a9620b5e261b12e79.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/ba/13/ba139a5e2f180a3c6951087139a3f1fa.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/f9/a1/f9a1fb447762eadce81e160037d818d6.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/6e/71/6e71a8655fa41d34bed94d694ac311bd.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/fb/ce/fbce7d5176f31121a16f674b33f0dc01.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/f4/14/f4147afe2b9e84eaa0a527bead7915ec.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/2b/ca/2bcae3117da893bb787e70f3badc8a36.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/d9/b1/d9b1868c3cf169c4f5ab439be3c3f144.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/c7/3e/c73e98c581a24765089b2365ff3e438f.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/4d/41/4d412b2bacaf71d81e09575d42e1e1d9.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/02/da/02dac92cc97867c52d3d52bc6fa1cfb3.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/c2/27/c22734b3d0f512c2e4865e185996cc60.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/ba/48/ba48b7f4be5904895f78308f4a540f6e.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/ad/5c/ad5c356915976cce6c3b423467ceaea1.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/04/4b/044b9a17682b28d586cd92d9bbdb0eaa.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/8a/2c/8a2ce264119e4238f31c858370a29524.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/49/8d/498d97a81e2f5eb7301e39a805081483.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/bf/18/bf18677dcc8886118dde8522c1d0525a.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/50/38/5038173c4006694dd7775e2fb4c8ee5b.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/ba/3d/ba3dce562f02f4630c16b041ccf5026c.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/ca/f7/caf7fd3ba6f73dcc32f155b4591f1187.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/68/fd/68fd5987d095906513ca7c9cc96fc6a3.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/40/0b/400b264b4cf0222062c257a7114a0c3a.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/54/62/5462b375393ecedb7fcea644eb47bfdc.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/3c/01/3c01410ec451fabd48cc36951e545f1f.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/af/fe/affe4d5eb57055af08bf47eb0a8e04bd.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/c4/37/c437e8157c397295a871235cf3599c4b.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/b5/e8/b5e8d48e32db237b46b10d4bf73f3f88.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/c7/11/c71162d0c07d119ede05df3908ea139a.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/6b/5f/6b5f8221df39ba72e3f65f2bc933082e.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/93/4f/934f2762d13a7bcede235fd894845a9c.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/81/f8/81f89be88b43110fd7cd173786e717b9.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/17/19/1719d8ffa02b808c71f743b6bd3b0f0c.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/a3/5a/a35ac677742414f2735f0e661622a954.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/f3/3e/f33e351e487bcd83bd1afc91adb48072.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/f3/81/f3816aea8caf261e284104102d1319d1.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/03/bf/03bff0e7b8976518db198372ae0d4fa9.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/ec/19/ec19b5a0e69aa336e93973310b3f470a.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/c2/0f/c20f40a7ef56b8506f2e7a36e77f6bdd.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/c4/c1/c4c1ccb3097f10f9447fa269254c55ed.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/97/51/9751d180f3f409984748e036ebdf399c.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/ae/fb/aefb095764b09d905f6b140f8255d946.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/47/75/47750b2faea939eb821369c75c05f60c.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/42/0a/420a938ec90248edfee93040769465f6.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/0c/2e/0c2e05c2c83f96e41fcad2921213f782.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/ff/76/ff7656147aaca67cf696668ac9214b64.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/ec/b6/ecb684b46b3fc676bd5b45ae48bab47f.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/60/b3/60b3e4e0572fb5d416a07d7f33de6450.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/19/2e/192ea178514f56a76096ff143237bff1.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/ca/55/ca55762e12692ea7b1b3ce818e88ddb7.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/c1/4c/c14cf291d10d2f07c97b012092260f7b.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/24/b7/24b7e2327bdcdf0591d63854519412b9.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/12/8f/128fc50f457f5c9968bcfe6aec09e736.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/0b/71/0b718dab9d440809f7f8244be85abba6.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/c0/9f/c09fca55b573ad03be249169e4723ac2.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/77/f1/77f1fef1eaa6e6abfcfb968717320298.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/82/05/820566b9e7901684a57a31a88b731b14.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/d9/73/d9739085483868096efa50f925c84030.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/1f/bd/1fbd656950795910e63b5c58b850b5a4.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/6f/09/6f09fa453c03aa7aec84a17792cf6061.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/3c/b1/3cb1be55ee2d1a04e7c713b0fdc2134f.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/f9/2b/f92bb322e5b35a282fb23fee4713331a.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/cb/0d/cb0deea71345a1ada27edf45edb3eb0a.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/2c/d5/2cd5837c392b501883218fe1ab1c7eba.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/97/7f/977f9bb230e77708d55974ce5c679364.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/85/af/85af20bc208a4ebb831b31b14c940ba8.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/7f/35/7f35dcbf1a565d4b56ac436c452070ff.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/d5/b5/d5b5cea9816346b93615b15a66535b91.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/8b/cd/8bcda69e8ce5f5a81fd67a406280683b.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/77/51/775161f1367561b5753d3a7f76911cce.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/ce/80/ce805ff1815150e646dab51051344235.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/19/85/19858c4357629807a42580d4e1bcd6f9.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/e7/8c/e78ccd35e4587ef0f1b7ba1265ed6e45.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/0a/ea/0aea3e9f08829ab688daab60802293e7.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/3e/88/3e88dff808390728be82f1f197ee34ff.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/ac/4b/ac4b80faee0c990acb3bd2546856e7c7.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/33/69/3369ddcbdf1969ca7887831362bde8e7.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/10/66/10663f596ec1c682271ba3a38e1fba91.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/0c/51/0c51539da71dc0d7f4b423762694d3e6.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/7c/a9/7ca92a8de65f36e98fe92d459ee00f22.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/2c/ec/2cec1160c774fdbba5c365c5e7650684.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/8c/73/8c73534b6964f49c13b66f27e72b83e1.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/09/7e/097eaf812aa77d4373a090382f98e818.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/d7/fd/d7fd78f36e37dc57549593bb1f3eb6ce.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/0b/95/0b9589bcc0050f745dfd9a5908d43d3f.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/8d/79/8d798f5d9fbff5f67864d8a7af1eeb16.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/f9/f2/f9f2b337615bf650a40d564a102f0f92.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/dd/d0/ddd03a49dbf44d0b6aaa44647ceca7b1.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/fd/fc/fdfcee41ac995bba3e41fab01d14bdcd.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/20/11/2011c1bf9430b77bfb620aba875d66c0.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/d7/e2/d7e2afa1f138861e127c63ef00cc270b.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/29/01/29015b08f79287defea29f3edb2a3e3c.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/85/7f/857f81a0b5a7578957f82f098a3df1d8.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/8a/5c/8a5c1a46f283b987d824388dcee351bb.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/88/ed/88ed44a28880da76bfaec79cc9bd3698.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/91/18/9118b10fcae4a9b8e48e224d8b28b840.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/2d/26/2d265ad6dc6a4457b4fb5dd0547f0eb7.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/65/95/659579776fbdf568170ad815a411aab6.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/2b/18/2b18f011b24c70cf951d536ad38b9634.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/9c/bf/9cbfd29c9c97f0319a8deb9ed50f199c.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/37/e1/37e193ac7ab69def1bf0d5dd3d8031cb.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/7b/c2/7bc28a46c913aee481e78cbde310451c.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/05/ad/05ad722197673b7fe5d310ab5cbb14c0.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/a8/bc/a8bc128ead4967158c758431ce2bcedb.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/ae/be/aebe22c4c25f5f9ad8efb1ef0d672067.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/52/11/5211ffcdc1c2f32b05afdc07cd4de1fd.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/fa/ac/faaca8d34b91bbe0146f8d423760eeec.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/3b/2b/3b2bcb1d8b218a57fc14d4170703fe70.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/c8/68/c868bb7091c180b53089b0dbb39e39cc.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/a9/27/a92743680712767a03fe136e82925957.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/dc/c6/dcc6cc6faaceda1374d93624381a605c.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/4c/f6/4cf6ccedb0ef8c5222b07015a64247f8.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/e3/9a/e39a11a3fc98b835134cf9016f4f7679.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/2c/8b/2c8b243bf0a921dbd1bed15df08fe3aa.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/48/d6/48d678f5e8ce0ea42a7791bcf234fab0.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/1c/4c/1c4cbde9d6d3afe3675c8ed9825ba68c.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/e5/c8/e5c826f0d6edbefbe1ba7c5002e5fabe.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/46/df/46dfa9e730e2c63a7a9ee4503ad9a3eb.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/d4/44/d44415d7e39114d8bcbef8f971aa753b.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/50/73/50735ac81a7812b261a425002b13de72.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/49/70/497003f88f5ca555d6768ea0a52baa01.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/c2/a3/c2a3a88eb835d55736224353bc4ad2d9.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/76/eb/76eb1ca5c0819eafca10a50a44416bb7.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/cb/9c/cb9c1f76332834c4a49858b9e2c09a7a.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/a9/6f/a96fe079afe88444d930da7f471f2987.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/4c/23/4c23ee4f9c432d53cb9a31242be49934.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/c9/ec/c9ec99a3f7f7f399c563ef0b25341231.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/5a/66/5a66a2b8cf2c2c1b4c0c4ef7285a8310.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/e0/a8/e0a8b276d0d8d8df47b99ce70f309791.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/8d/b4/8db4c984dbd2a72f8f873f1318c4c97a.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/5e/77/5e77621a7de94dc4dfb2752965239902.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/43/d4/43d44f948343366b9ecbd08afe9c15c9.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/e9/a7/e9a79eb014ee3890328798438f7d7527.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/5a/78/5a78339c21e54ba6ff514f039de42dab.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/78/69/7869c0e59d2a88b02c1ae453b813ca5d.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/40/50/4050dff4480dda7c38ba9dbe6cee8223.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/18/8c/188caba667515c76dc91cebbf2f02f37.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/a6/62/a662d6137e425cae33c1c3ae6d8ae48c.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/6c/d0/6cd0146f109661f97d34b3873c5a6966.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/28/ed/28ed2c9d9e432d94ed198a9323994298.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/6c/7d/6c7df58612352a84ed8dfc1f8403d283.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/b2/9f/b29f27288ddd004238ba4aee56bdf3cc.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/f3/98/f3982a29af49be678797b658cbe4f785.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/dd/89/dd89da6e63de37a2cea029a007e310b7.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/bf/ae/bfae07622167d2b41bd8cb335a5c3115.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/0e/11/0e11b3e8f91d701b48c72663835cf451.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/cc/b4/ccb40187d56be83b2e31cfbb18d980ab.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/1f/a0/1fa0f883208c9130b8407814f07d3d11.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/a8/55/a85596aa958be301f82294b0097a9a86.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/d5/30/d530d1b14cfe84549565ecc2b06658e5.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/4f/42/4f42b4361c26df73b53e2d0ee682ae0a.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/04/5b/045b5c3c2f20a404a88f0303354d5e26.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/fa/b0/fab0e93763a1b6cb316b10090b028927.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/fc/0d/fc0d38cc7ee1fd260b07b3dc82c4fbdb.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/63/d7/63d79e6058ebbc05d35b37f7a7914c15.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/f3/96/f396eed3c1bedb127c375aa9707cf07b.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/96/8c/968c9834a6cf4110e8f8a7eff75c2892.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/e2/c2/e2c2d15d0a752c1c4888db0f2d8e8244.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/f1/10/f110e73ca916335f82bff4103f0a4154.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/18/ee/18ee6e5cc4b301267936b72dd6e406c1.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/f2/76/f276aaa5f5fbc09a507d2bd4257984f3.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/e2/71/e271ba832cc5b1da2c0751d329da2fa9.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/2e/72/2e72baee89e8a68b2e1ce93da266ac72.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/62/b8/62b8612dbc7819b2da37ef1ee0a4f286.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/4a/cc/4accc186b6121af96eae6757aaf40ddf.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/7d/14/7d1418cace412b78f14d59818b32c221.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/34/2c/342ced99da85e8b49aaeb1bccf801dd8.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/fe/c4/fec4f7a73410d304c694155895a4b103.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/72/e7/72e79f9da6194d9789253ed446d573a7.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/64/77/64775d20d878dc3233a8155be27861c2.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/cc/ca/ccca08ea4ce58d40291b11a29d74ddc9.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/bf/f1/bff17e1cb377905761cbf98b5cc7a5de.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/bb/3b/bb3bf6c2573647afefc08fa97b1a0921.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/67/21/6721f69a6110fdff97b8bb594f097337.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/34/db/34dba39b456e41d65ea01190f62e9570.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/45/af/45aff53ede336ce319405697a714e24c.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/40/9b/409b37c9620f63beacbb3a828e2eb33c.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/bd/b8/bdb8698fac042d0167def4f7a3ee9631.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/ca/2f/ca2f8f265604c05028f72e98fdf44b36.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/86/38/86388a18ef902266ca2ccc037a25031f.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/b5/42/b54261045a60b8561cf98d8535c41fe4.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/b8/b3/b8b3156abd1dfc858aac13d6282bfde7.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/d2/13/d213a38787197479eab3000e6584d033.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/6c/59/6c59030386d351d3d05ec74130d198ee.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/a4/d6/a4d642cb12866cbd32b970b27e99019e.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/4d/bd/4dbdfa7945a0d62887a346b18f488c31.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/a1/f2/a1f2a74e5101290ba6d650df50853cbd.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/21/9f/219f4956ebdf8cffa8982b3a7e35a00d.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/12/6a/126ad5cfe25402458568ef27859d7a79.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/79/89/798933f49247a345991bb4d00e5d3e68.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/52/13/5213b45ad5a9dcafbc371250d7d18793.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/3a/40/3a4057ceaae63c66dec70de42f56d9a3.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/6f/63/6f633bcab4f8ead6bd5737958b131828.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/fb/f6/fbf6adf8998d3269666183d904dcf944.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/b9/6a/b96afe1872e239c5903df2fdd72616ff.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/68/5a/685af1ca43d590007fec06f33f18b726.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/98/e0/98e0c9824bdb7f62bdb2131b366898e3.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/fb/a5/fba5a9d69679579e5a081639a04eda7b.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/1f/e7/1fe7c6d495082a2e7ce35c38d77374e4.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/e6/ee/e6ee6514845c6c9d9f7b8cb8fa9db138.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/27/fc/27fcbbc872186bc55bece104f45f38cc.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/d5/24/d524fb1a3bc1646fd1ab633b416b42a8.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/61/7a/617a862464b1a8ae2e9fb90641174f6f.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/3b/a1/3ba1fa18c213b8f2fbe605cca9cbdb57.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/83/c8/83c89ed51bfb0ded5825e0d43d491d14.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/25/46/25465a17b648183dc0434d7567f89083.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/a1/44/a1440b1449d14ddac2c80dc08f1ce5a6.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/bd/b5/bdb5753a0ac54e7e1c4b2485275fc2bb.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for E:/tmp/LtAutoloader-token-cache/db/39/db39bfe1ad56965e90cd3e64839d43a1.php E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+
+[ 2017-04-18T09:18:22+08:00 ] ::1 /ScanPay/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000452s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000604s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000659s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000083s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000139s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.261346s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.261417s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000496s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000521s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000617s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000644s ]
+
+[ 2017-04-18T09:18:29+08:00 ] ::1 /ScanPay/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000367s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000900s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000972s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000116s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000187s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.234751s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.234805s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000761s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000793s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000715s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000748s ]
+
+[ 2017-04-18T09:20:10+08:00 ] ::1 /ScanPay/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000489s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000638s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000682s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000078s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000121s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.140602s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.140655s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000321s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000347s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000456s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000484s ]
+
+[ 2017-04-18T09:21:20+08:00 ] ::1 /ScanPay/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000320s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000545s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000589s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000066s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000107s ]
+ERR: appid should not be NULL!
+
+[ 2017-04-18T09:28:11+08:00 ] ::1 /ScanPay/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000361s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000497s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000532s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000067s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000114s ]
+NOTIC: [2] file_put_contents(log/log.txt): failed to open stream: No such file or directory E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\f2fpay\service\AlipayTradeService.php 第 359 行.
+NOTIC: [2] openssl_verify(): supplied key param cannot be coerced into a public key E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\aop\AopClient.php 第 610 行.
+ERR: check sign Fail! [sign=WpGe9b17TsXk0mjs78hOCcKdW/meDGtRPQgVaxHV5dPMqCnRsiK29M4I5wdCusikpKGNeRaY9rcUADYJeFpxkNIYseXz7tmCpS5yu8kLLEa6qFPcgxTZvZmdFnxJRmUx+3y4wkSSEydmXIxIx+V0BDQ7x9/oED8K6k1DzbV0vE3G7B+32BlLh6oJiiCAW2/NgZuDK/BYtVMu08ORuYpLbmqB1sRErA0fAtb5R6XC+g8obbHgnsmwrRWLfcgrsChYusgwb68/ha3h7bvQXvOILJpK2L9h5NXmx+YcBfPEF1l9ZHbKo8RkCXbVuf6VksidGW+OmIcND+WjdW/CQF2Fcg==, signSourceData={"code":"40003","msg":"Insufficient Conditions","sub_code":"isv.missing-signature-config","sub_msg":"验签出错, 未配置对应签名算法的公钥或者证书"}]
+
+[ 2017-04-18T09:31:50+08:00 ] ::1 /ScanPay/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000467s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000513s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000559s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000108s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000171s ]
+
+[ 2017-04-18T09:32:05+08:00 ] ::1 /ScanPay/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000830s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000453s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000496s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000073s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000120s ]
+NOTIC: [2] file_put_contents(log/log.txt): failed to open stream: No such file or directory E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\f2fpay\service\AlipayTradeService.php 第 359 行.
+NOTIC: [2] openssl_verify(): supplied key param cannot be coerced into a public key E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\aop\AopClient.php 第 610 行.
+ERR: check sign Fail! [sign=WpGe9b17TsXk0mjs78hOCcKdW/meDGtRPQgVaxHV5dPMqCnRsiK29M4I5wdCusikpKGNeRaY9rcUADYJeFpxkNIYseXz7tmCpS5yu8kLLEa6qFPcgxTZvZmdFnxJRmUx+3y4wkSSEydmXIxIx+V0BDQ7x9/oED8K6k1DzbV0vE3G7B+32BlLh6oJiiCAW2/NgZuDK/BYtVMu08ORuYpLbmqB1sRErA0fAtb5R6XC+g8obbHgnsmwrRWLfcgrsChYusgwb68/ha3h7bvQXvOILJpK2L9h5NXmx+YcBfPEF1l9ZHbKo8RkCXbVuf6VksidGW+OmIcND+WjdW/CQF2Fcg==, signSourceData={"code":"40003","msg":"Insufficient Conditions","sub_code":"isv.missing-signature-config","sub_msg":"验签出错, 未配置对应签名算法的公钥或者证书"}]
+
+[ 2017-04-18T09:33:25+08:00 ] ::1 /ScanPay/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000595s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000505s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000542s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000060s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000095s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.133252s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.133303s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000378s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000410s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000462s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000490s ]
+
+[ 2017-04-18T09:33:26+08:00 ] ::1 /ScanPay/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000301s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000622s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000683s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000081s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000141s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.147937s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.147989s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000302s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000329s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000446s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000477s ]
+
+[ 2017-04-18T09:33:35+08:00 ] ::1 /ScanPay/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000339s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002556s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002723s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000088s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000129s ]
+NOTIC: [2] file_put_contents(log/log.txt): failed to open stream: No such file or directory E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\f2fpay\service\AlipayTradeService.php 第 359 行.
+NOTIC: [2] openssl_verify(): supplied key param cannot be coerced into a public key E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\aop\AopClient.php 第 610 行.
+ERR: check sign Fail! [sign=WpGe9b17TsXk0mjs78hOCcKdW/meDGtRPQgVaxHV5dPMqCnRsiK29M4I5wdCusikpKGNeRaY9rcUADYJeFpxkNIYseXz7tmCpS5yu8kLLEa6qFPcgxTZvZmdFnxJRmUx+3y4wkSSEydmXIxIx+V0BDQ7x9/oED8K6k1DzbV0vE3G7B+32BlLh6oJiiCAW2/NgZuDK/BYtVMu08ORuYpLbmqB1sRErA0fAtb5R6XC+g8obbHgnsmwrRWLfcgrsChYusgwb68/ha3h7bvQXvOILJpK2L9h5NXmx+YcBfPEF1l9ZHbKo8RkCXbVuf6VksidGW+OmIcND+WjdW/CQF2Fcg==, signSourceData={"code":"40003","msg":"Insufficient Conditions","sub_code":"isv.missing-signature-config","sub_msg":"验签出错, 未配置对应签名算法的公钥或者证书"}]
+
+[ 2017-04-18T09:36:09+08:00 ] ::1 /ScanPay/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000374s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000524s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000559s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000063s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000097s ]
+NOTIC: [2] file_put_contents(log/log.txt): failed to open stream: No such file or directory E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\f2fpay\service\AlipayTradeService.php 第 359 行.
+ERR: check sign Fail! [sign=WpGe9b17TsXk0mjs78hOCcKdW/meDGtRPQgVaxHV5dPMqCnRsiK29M4I5wdCusikpKGNeRaY9rcUADYJeFpxkNIYseXz7tmCpS5yu8kLLEa6qFPcgxTZvZmdFnxJRmUx+3y4wkSSEydmXIxIx+V0BDQ7x9/oED8K6k1DzbV0vE3G7B+32BlLh6oJiiCAW2/NgZuDK/BYtVMu08ORuYpLbmqB1sRErA0fAtb5R6XC+g8obbHgnsmwrRWLfcgrsChYusgwb68/ha3h7bvQXvOILJpK2L9h5NXmx+YcBfPEF1l9ZHbKo8RkCXbVuf6VksidGW+OmIcND+WjdW/CQF2Fcg==, signSourceData={"code":"40003","msg":"Insufficient Conditions","sub_code":"isv.missing-signature-config","sub_msg":"验签出错, 未配置对应签名算法的公钥或者证书"}]
+
+[ 2017-04-18T09:36:43+08:00 ] ::1 /ScanPay/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000375s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000483s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000517s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000066s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000114s ]
+NOTIC: [2] file_put_contents(log/log.txt): failed to open stream: No such file or directory E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\f2fpay\service\AlipayTradeService.php 第 359 行.
+NOTIC: [2] openssl_verify(): supplied key param cannot be coerced into a public key E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\aop\AopClient.php 第 610 行.
+ERR: check sign Fail! [sign=WpGe9b17TsXk0mjs78hOCcKdW/meDGtRPQgVaxHV5dPMqCnRsiK29M4I5wdCusikpKGNeRaY9rcUADYJeFpxkNIYseXz7tmCpS5yu8kLLEa6qFPcgxTZvZmdFnxJRmUx+3y4wkSSEydmXIxIx+V0BDQ7x9/oED8K6k1DzbV0vE3G7B+32BlLh6oJiiCAW2/NgZuDK/BYtVMu08ORuYpLbmqB1sRErA0fAtb5R6XC+g8obbHgnsmwrRWLfcgrsChYusgwb68/ha3h7bvQXvOILJpK2L9h5NXmx+YcBfPEF1l9ZHbKo8RkCXbVuf6VksidGW+OmIcND+WjdW/CQF2Fcg==, signSourceData={"code":"40003","msg":"Insufficient Conditions","sub_code":"isv.missing-signature-config","sub_msg":"验签出错, 未配置对应签名算法的公钥或者证书"}]
+
+[ 2017-04-18T09:37:54+08:00 ] ::1 /ScanPay/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000380s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000491s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000526s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000069s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000114s ]
+NOTIC: [2] file_put_contents(log/log.txt): failed to open stream: No such file or directory E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\f2fpay\service\AlipayTradeService.php 第 359 行.
+NOTIC: [2] openssl_verify(): supplied key param cannot be coerced into a public key E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\aop\AopClient.php 第 612 行.
+ERR: check sign Fail! [sign=mv97mKUUSxEPPNvBN5+mSdKOFoO1ZlpumNJ5Pm6e45SCZl6TWvSYYypLA3nokyQeeSgE2vuOHjH/mjp7wvwqtHMnSrnjPHsVWlG2SEmyUnU7MrI5KRdKZR6iBAZCZL8cvL23V7VlocBDHshKyLP1sP2VXQwugeNXaNLhXDomoDg=, signSourceData={"code":"40004","msg":"Business Failed","sub_code":"ACQ.INVALID_STORE_ID","sub_msg":"商户门店编号无效"}]
+
+[ 2017-04-18T09:39:38+08:00 ] ::1 /ScanPay/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000386s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000496s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000531s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000107s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000192s ]
+NOTIC: [8] Undefined index: sign_type E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\f2fpay\service\AlipayTradeService.php 第 56 行.
+NOTIC: [8] Undefined index: merchant_private_key E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\f2fpay\service\AlipayTradeService.php 第 58 行.
+NOTIC: [8] Undefined index: alipay_public_key E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\f2fpay\service\AlipayTradeService.php 第 60 行.
+NOTIC: [8] Undefined index: MaxQueryRetry E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\f2fpay\service\AlipayTradeService.php 第 62 行.
+NOTIC: [8] Undefined index: QueryDuration E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\f2fpay\service\AlipayTradeService.php 第 63 行.
+ERR: private_key should not be NULL!
+
+[ 2017-04-18T09:40:08+08:00 ] ::1 /ScanPay/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000380s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000462s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000494s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000062s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000092s ]
+NOTIC: [8] Undefined index: sign_type E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\f2fpay\service\AlipayTradeService.php 第 56 行.
+NOTIC: [8] Undefined index: merchant_private_key E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\f2fpay\service\AlipayTradeService.php 第 58 行.
+NOTIC: [8] Undefined index: alipay_public_key E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\f2fpay\service\AlipayTradeService.php 第 60 行.
+NOTIC: [8] Undefined index: MaxQueryRetry E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\f2fpay\service\AlipayTradeService.php 第 62 行.
+NOTIC: [8] Undefined index: QueryDuration E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\f2fpay\service\AlipayTradeService.php 第 63 行.
+ERR: private_key should not be NULL!
+
+[ 2017-04-18T09:40:16+08:00 ] ::1 /ScanPay/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000297s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000462s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000496s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000063s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000102s ]
+NOTIC: [2] file_put_contents(log/log.txt): failed to open stream: No such file or directory E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\f2fpay\service\AlipayTradeService.php 第 359 行.
+NOTIC: [2] openssl_verify(): supplied key param cannot be coerced into a public key E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\aop\AopClient.php 第 612 行.
+ERR: check sign Fail! [sign=mv97mKUUSxEPPNvBN5+mSdKOFoO1ZlpumNJ5Pm6e45SCZl6TWvSYYypLA3nokyQeeSgE2vuOHjH/mjp7wvwqtHMnSrnjPHsVWlG2SEmyUnU7MrI5KRdKZR6iBAZCZL8cvL23V7VlocBDHshKyLP1sP2VXQwugeNXaNLhXDomoDg=, signSourceData={"code":"40004","msg":"Business Failed","sub_code":"ACQ.INVALID_STORE_ID","sub_msg":"商户门店编号无效"}]
+
+[ 2017-04-18T09:41:23+08:00 ] ::1 /ScanPay/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000375s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000456s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000490s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000117s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000218s ]
+NOTIC: [2] file_put_contents(log/log.txt): failed to open stream: No such file or directory E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\f2fpay\service\AlipayTradeService.php 第 359 行.
+NOTIC: [8] Undefined property: stdClass::$sign E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\aop\AopClient.php 第 819 行.
+ERR:  check sign Fail! The reason : signData is Empty
+
+[ 2017-04-18T09:42:26+08:00 ] ::1 /ScanPay/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000647s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000612s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000668s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000067s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000107s ]
+NOTIC: [2] file_put_contents(log/log.txt): failed to open stream: No such file or directory E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\f2fpay\service\AlipayTradeService.php 第 359 行.
+NOTIC: [8] Undefined property: stdClass::$sign E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\aop\AopClient.php 第 819 行.
+
+[ 2017-04-18T09:44:52+08:00 ] ::1 /ScanPay/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000392s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000512s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000545s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000231s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000306s ]
+NOTIC: [2] file_put_contents(log/log.txt): failed to open stream: No such file or directory E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\f2fpay\service\AlipayTradeService.php 第 359 行.
+NOTIC: [8] Undefined property: stdClass::$sign E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\aop\AopClient.php 第 819 行.
+ERR:  check sign Fail! The reason : signData is Empty
+
+[ 2017-04-18T09:46:21+08:00 ] ::1 /ScanPay/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000393s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000434s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000478s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000071s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000111s ]
+NOTIC: [2] file_put_contents(log/log.txt): failed to open stream: No such file or directory E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\f2fpay\service\AlipayTradeService.php 第 359 行.
+NOTIC: [8] Undefined property: stdClass::$sign E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\aop\AopClient.php 第 819 行.
+
+[ 2017-04-18T09:46:48+08:00 ] ::1 /ScanPay/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000343s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000471s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000504s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000062s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000101s ]
+NOTIC: [2] file_put_contents(log/log.txt): failed to open stream: No such file or directory E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\f2fpay\service\AlipayTradeService.php 第 359 行.
+
+[ 2017-04-18T09:47:13+08:00 ] ::1 /ScanPay/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000318s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000453s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000489s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000143s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000247s ]
+NOTIC: [2] file_put_contents(log/log.txt): failed to open stream: No such file or directory E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\f2fpay\service\AlipayTradeService.php 第 359 行.
+NOTIC: [8] Undefined property: stdClass::$sign E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\aop\AopClient.php 第 820 行.
+
+[ 2017-04-18T09:47:34+08:00 ] ::1 /ScanPay/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000356s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000460s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000494s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000067s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000111s ]
+NOTIC: [2] file_put_contents(log/log.txt): failed to open stream: No such file or directory E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\f2fpay\service\AlipayTradeService.php 第 359 行.
+NOTIC: [8] Undefined property: stdClass::$sign E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\aop\AopClient.php 第 823 行.
+
+[ 2017-04-18T09:47:57+08:00 ] ::1 /ScanPay/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000297s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000429s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000474s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000069s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000129s ]
+NOTIC: [2] file_put_contents(log/log.txt): failed to open stream: No such file or directory E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\f2fpay\service\AlipayTradeService.php 第 359 行.
+
+[ 2017-04-18T09:49:19+08:00 ] ::1 /ScanPay/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000294s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000481s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000520s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000063s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000102s ]
+NOTIC: [2] file_put_contents(log/log.txt): failed to open stream: No such file or directory E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\f2fpay\service\AlipayTradeService.php 第 359 行.
+
+[ 2017-04-18T09:49:48+08:00 ] ::1 /ScanPay/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000321s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000461s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000495s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000066s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000110s ]
+NOTIC: [8] Undefined variable: storeId E:\wwwroot\scanPay\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+NOTIC: [8] Undefined variable: operatorId E:\wwwroot\scanPay\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+NOTIC: [8] Undefined variable: alipayStoreId E:\wwwroot\scanPay\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+NOTIC: [2] file_put_contents(log/log.txt): failed to open stream: No such file or directory E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\f2fpay\service\AlipayTradeService.php 第 359 行.
+
+[ 2017-04-18T09:49:56+08:00 ] ::1 /ScanPay/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000293s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000392s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000427s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000067s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000108s ]
+NOTIC: [8] Undefined variable: storeId E:\wwwroot\scanPay\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+NOTIC: [8] Undefined variable: operatorId E:\wwwroot\scanPay\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+NOTIC: [8] Undefined variable: alipayStoreId E:\wwwroot\scanPay\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+NOTIC: [2] file_put_contents(log/log.txt): failed to open stream: No such file or directory E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\f2fpay\service\AlipayTradeService.php 第 359 行.
+NOTIC: [2] openssl_verify(): supplied key param cannot be coerced into a public key E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\aop\AopClient.php 第 612 行.
+NOTIC: [2] openssl_verify(): supplied key param cannot be coerced into a public key E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\aop\AopClient.php 第 612 行.
+ERR: check sign Fail! [sign=lj4PNJxD0YlAMaB5iWtz+ivpWB1aNkkEbUz+gTXoEupae4eku3N0Sj/onjJkEOEh7gOHd4w5ueNKJRTgnFx/BdG9f/hFMfmrsl+HwsawZYwweUxqND2afa7slgHTsr9D94/Fr8abfTH75PfRdQv6toUMv/l+te3+X1cCzuWUXE8=, signSourceData={"code":"10000","msg":"Success","out_trade_no":"121354545","qr_code":"https://qr.alipay.com/bax04967jmedxn2vljas0003"}]
+
+[ 2017-04-18T09:51:09+08:00 ] ::1 /ScanPay/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000272s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000477s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000516s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000105s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000171s ]
+NOTIC: [8] Undefined variable: storeId E:\wwwroot\scanPay\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+NOTIC: [8] Undefined variable: operatorId E:\wwwroot\scanPay\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+NOTIC: [8] Undefined variable: alipayStoreId E:\wwwroot\scanPay\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+NOTIC: [2] file_put_contents(log/log.txt): failed to open stream: No such file or directory E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\f2fpay\service\AlipayTradeService.php 第 359 行.
+NOTIC: [2] openssl_verify(): supplied key param cannot be coerced into a public key E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\aop\AopClient.php 第 612 行.
+NOTIC: [2] openssl_verify(): supplied key param cannot be coerced into a public key E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\aop\AopClient.php 第 612 行.
+
+[ 2017-04-18T09:54:46+08:00 ] ::1 /ScanPay/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000377s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000429s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000464s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000065s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000103s ]
+NOTIC: [8] Undefined variable: storeId E:\wwwroot\scanPay\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+NOTIC: [8] Undefined variable: operatorId E:\wwwroot\scanPay\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+NOTIC: [8] Undefined variable: alipayStoreId E:\wwwroot\scanPay\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+NOTIC: [2] file_put_contents(log/log.txt): failed to open stream: No such file or directory E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\f2fpay\service\AlipayTradeService.php 第 359 行.
+NOTIC: [2] openssl_verify(): supplied key param cannot be coerced into a public key E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\aop\AopClient.php 第 612 行.
+NOTIC: [2] openssl_verify(): supplied key param cannot be coerced into a public key E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\aop\AopClient.php 第 612 行.
+ERR: check sign Fail! [sign=wwEbhIMYBHTuf1nVDLnOOSvSMjR5bmbIw9Sg6tzW9vf9J7Mh+kgU1cdJ1Idejhlh9GY8mDdcPIK+DrJLVovrc+RO3qHJIdlrGFQpm+M8jGBW7DoHj9peTliHWyhKfrBoBiCMTXd6YTGX85lK3IqeVW9b3isba/BMOVI6cUn3mJo=, signSourceData={"code":"10000","msg":"Success","out_trade_no":"121354545","qr_code":"https://qr.alipay.com/bax02534femvoradfvky00ff"}]
+
+[ 2017-04-18T09:57:17+08:00 ] ::1 /ScanPay/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000374s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000499s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000534s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000064s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000103s ]
+NOTIC: [8] Undefined variable: storeId E:\wwwroot\scanPay\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+NOTIC: [8] Undefined variable: operatorId E:\wwwroot\scanPay\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+NOTIC: [8] Undefined variable: alipayStoreId E:\wwwroot\scanPay\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+NOTIC: [2] file_put_contents(log/log.txt): failed to open stream: No such file or directory E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\f2fpay\service\AlipayTradeService.php 第 359 行.
+NOTIC: [2] openssl_verify(): supplied key param cannot be coerced into a public key E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\aop\AopClient.php 第 612 行.
+NOTIC: [2] openssl_verify(): supplied key param cannot be coerced into a public key E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\aop\AopClient.php 第 612 行.
+ERR: check sign Fail! [sign=kV4KDo7sTexKUw96zmY0qwZrHYawyDTl2mnl4PkV0OFMcwKxTK/V2n3U2gCnakRkNdRTMbG/5EHD4zU1zt+ngpgBqu7pEs5yLw4H79quAn2cn77devB8j/g9FtjWvok4DH09D98+fjRM6wZczdvCXiQX0c+fwSzO5+wVJkXJLtU=, signSourceData={"code":"10000","msg":"Success","out_trade_no":"121354545","qr_code":"https://qr.alipay.com/bax03256frpogddeqftb00d9"}]
+
+[ 2017-04-18T09:57:37+08:00 ] ::1 /ScanPay/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000346s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000457s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000490s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000084s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000138s ]
+NOTIC: [8] Undefined variable: storeId E:\wwwroot\scanPay\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+NOTIC: [8] Undefined variable: operatorId E:\wwwroot\scanPay\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+NOTIC: [8] Undefined variable: alipayStoreId E:\wwwroot\scanPay\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+NOTIC: [2] file_put_contents(log/log.txt): failed to open stream: No such file or directory E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\f2fpay\service\AlipayTradeService.php 第 359 行.
+NOTIC: [2] openssl_sign(): supplied key param cannot be coerced into a private key E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\aop\AopClient.php 第 106 行.
+NOTIC: [2] openssl_verify(): supplied key param cannot be coerced into a public key E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\aop\AopClient.php 第 612 行.
+ERR: check sign Fail! [sign=voYcF572mliFXgM/MFLEN1+2xVEuAFhzschcBoUEnfOWHqxcFY8DhecCKwMhHja/LzB2cUE+x09bfH4JYnMNs0A/fGAe401Llc+EBhD+Fh8kFKN1LSql/ZCGCVs0gmm/gjkBSxiSwtSC+wjmpqolU+O9UvOuFfTlaYim7EqNYmo=, signSourceData={"code":"40001","msg":"Missing Required Arguments","sub_code":"isv.missing-signature","sub_msg":"缺少签名参数"}]
+
+[ 2017-04-18T09:59:49+08:00 ] ::1 /ScanPay/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000371s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000584s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000638s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000072s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000115s ]
+NOTIC: [8] Undefined variable: storeId E:\wwwroot\scanPay\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+NOTIC: [8] Undefined variable: operatorId E:\wwwroot\scanPay\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+NOTIC: [8] Undefined variable: alipayStoreId E:\wwwroot\scanPay\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+NOTIC: [2] file_put_contents(log/log.txt): failed to open stream: No such file or directory E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\f2fpay\service\AlipayTradeService.php 第 359 行.
+NOTIC: [2] openssl_sign(): supplied key param cannot be coerced into a private key E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\aop\AopClient.php 第 106 行.
+NOTIC: [2] openssl_verify(): supplied key param cannot be coerced into a public key E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\aop\AopClient.php 第 612 行.
+ERR: check sign Fail! [sign=voYcF572mliFXgM/MFLEN1+2xVEuAFhzschcBoUEnfOWHqxcFY8DhecCKwMhHja/LzB2cUE+x09bfH4JYnMNs0A/fGAe401Llc+EBhD+Fh8kFKN1LSql/ZCGCVs0gmm/gjkBSxiSwtSC+wjmpqolU+O9UvOuFfTlaYim7EqNYmo=, signSourceData={"code":"40001","msg":"Missing Required Arguments","sub_code":"isv.missing-signature","sub_msg":"缺少签名参数"}]
+
+[ 2017-04-18T10:01:57+08:00 ] ::1 /ScanPay/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000429s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000497s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000542s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000067s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000103s ]
+NOTIC: [8] Undefined variable: storeId E:\wwwroot\scanPay\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+NOTIC: [8] Undefined variable: operatorId E:\wwwroot\scanPay\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+NOTIC: [8] Undefined variable: alipayStoreId E:\wwwroot\scanPay\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+NOTIC: [2] file_put_contents(log/log.txt): failed to open stream: No such file or directory E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\f2fpay\service\AlipayTradeService.php 第 359 行.
+NOTIC: [2] openssl_verify(): supplied key param cannot be coerced into a public key E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\aop\AopClient.php 第 610 行.
+ERR: check sign Fail! [sign=WpGe9b17TsXk0mjs78hOCcKdW/meDGtRPQgVaxHV5dPMqCnRsiK29M4I5wdCusikpKGNeRaY9rcUADYJeFpxkNIYseXz7tmCpS5yu8kLLEa6qFPcgxTZvZmdFnxJRmUx+3y4wkSSEydmXIxIx+V0BDQ7x9/oED8K6k1DzbV0vE3G7B+32BlLh6oJiiCAW2/NgZuDK/BYtVMu08ORuYpLbmqB1sRErA0fAtb5R6XC+g8obbHgnsmwrRWLfcgrsChYusgwb68/ha3h7bvQXvOILJpK2L9h5NXmx+YcBfPEF1l9ZHbKo8RkCXbVuf6VksidGW+OmIcND+WjdW/CQF2Fcg==, signSourceData={"code":"40003","msg":"Insufficient Conditions","sub_code":"isv.missing-signature-config","sub_msg":"验签出错, 未配置对应签名算法的公钥或者证书"}]
+
+[ 2017-04-18T10:02:10+08:00 ] ::1 /ScanPay/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000362s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000472s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000507s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000061s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000094s ]
+NOTIC: [8] Undefined variable: storeId E:\wwwroot\scanPay\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+NOTIC: [8] Undefined variable: operatorId E:\wwwroot\scanPay\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+NOTIC: [8] Undefined variable: alipayStoreId E:\wwwroot\scanPay\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+NOTIC: [2] file_put_contents(log/log.txt): failed to open stream: No such file or directory E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\f2fpay\service\AlipayTradeService.php 第 359 行.
+NOTIC: [2] openssl_verify(): supplied key param cannot be coerced into a public key E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\aop\AopClient.php 第 610 行.
+ERR: check sign Fail! [sign=WpGe9b17TsXk0mjs78hOCcKdW/meDGtRPQgVaxHV5dPMqCnRsiK29M4I5wdCusikpKGNeRaY9rcUADYJeFpxkNIYseXz7tmCpS5yu8kLLEa6qFPcgxTZvZmdFnxJRmUx+3y4wkSSEydmXIxIx+V0BDQ7x9/oED8K6k1DzbV0vE3G7B+32BlLh6oJiiCAW2/NgZuDK/BYtVMu08ORuYpLbmqB1sRErA0fAtb5R6XC+g8obbHgnsmwrRWLfcgrsChYusgwb68/ha3h7bvQXvOILJpK2L9h5NXmx+YcBfPEF1l9ZHbKo8RkCXbVuf6VksidGW+OmIcND+WjdW/CQF2Fcg==, signSourceData={"code":"40003","msg":"Insufficient Conditions","sub_code":"isv.missing-signature-config","sub_msg":"验签出错, 未配置对应签名算法的公钥或者证书"}]
+
+[ 2017-04-18T10:02:17+08:00 ] ::1 /ScanPay/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000287s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000427s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000462s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000067s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000112s ]
+NOTIC: [8] Undefined variable: storeId E:\wwwroot\scanPay\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+NOTIC: [8] Undefined variable: operatorId E:\wwwroot\scanPay\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+NOTIC: [8] Undefined variable: alipayStoreId E:\wwwroot\scanPay\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+NOTIC: [2] file_put_contents(log/log.txt): failed to open stream: No such file or directory E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\f2fpay\service\AlipayTradeService.php 第 359 行.
+NOTIC: [2] openssl_verify(): supplied key param cannot be coerced into a public key E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\aop\AopClient.php 第 612 行.
+NOTIC: [2] openssl_verify(): supplied key param cannot be coerced into a public key E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\aop\AopClient.php 第 612 行.
+ERR: check sign Fail! [sign=ZonRuJWDUcmjbmowjuSSrKioxk0Zi+qjpsNjD2yhONos1Wa9vUE0ahAreynYYnS6NOZr3QgmASHabNO0jY/9FcOIVbLEFfGe7PZYLPjl7wG+gjtqISjUt8JktKZAUarOjR1V1iPcY/IuiDnjIS+lzAbA9TDv2cQ/xDlK2Iw+hsE=, signSourceData={"code":"10000","msg":"Success","out_trade_no":"121354545","qr_code":"https://qr.alipay.com/bax023801ajdyef7150b0048"}]
+
+[ 2017-04-18T10:02:51+08:00 ] ::1 /ScanPay/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000288s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000481s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000521s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000107s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000167s ]
+NOTIC: [8] Undefined variable: storeId E:\wwwroot\scanPay\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+NOTIC: [8] Undefined variable: operatorId E:\wwwroot\scanPay\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+NOTIC: [8] Undefined variable: alipayStoreId E:\wwwroot\scanPay\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+NOTIC: [2] file_put_contents(log/log.txt): failed to open stream: No such file or directory E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\f2fpay\service\AlipayTradeService.php 第 359 行.
+NOTIC: [2] openssl_verify(): supplied key param cannot be coerced into a public key E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\aop\AopClient.php 第 612 行.
+NOTIC: [8] Undefined variable: request E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\aop\AopClient.php 第 619 行.
+
+[ 2017-04-18T10:03:19+08:00 ] ::1 /ScanPay/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000317s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000398s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000433s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000063s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000099s ]
+NOTIC: [8] Undefined variable: storeId E:\wwwroot\scanPay\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+NOTIC: [8] Undefined variable: operatorId E:\wwwroot\scanPay\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+NOTIC: [8] Undefined variable: alipayStoreId E:\wwwroot\scanPay\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+NOTIC: [2] file_put_contents(log/log.txt): failed to open stream: No such file or directory E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\f2fpay\service\AlipayTradeService.php 第 359 行.
+NOTIC: [2] openssl_verify(): supplied key param cannot be coerced into a public key E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\aop\AopClient.php 第 612 行.
+NOTIC: [8] Undefined variable: request E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\aop\AopClient.php 第 613 行.
+
+[ 2017-04-18T10:03:49+08:00 ] ::1 /ScanPay/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000356s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000470s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000503s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000063s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000100s ]
+NOTIC: [8] Undefined variable: storeId E:\wwwroot\scanPay\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+NOTIC: [8] Undefined variable: operatorId E:\wwwroot\scanPay\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+NOTIC: [8] Undefined variable: alipayStoreId E:\wwwroot\scanPay\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+NOTIC: [2] file_put_contents(log/log.txt): failed to open stream: No such file or directory E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\f2fpay\service\AlipayTradeService.php 第 359 行.
+
+[ 2017-04-18T10:07:19+08:00 ] ::1 /ScanPay/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000369s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000493s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000527s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000065s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000103s ]
+NOTIC: [8] Undefined variable: storeId E:\wwwroot\scanPay\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+NOTIC: [8] Undefined variable: operatorId E:\wwwroot\scanPay\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+NOTIC: [8] Undefined variable: alipayStoreId E:\wwwroot\scanPay\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+NOTIC: [2] file_put_contents(log/log.txt): failed to open stream: No such file or directory E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\f2fpay\service\AlipayTradeService.php 第 359 行.
+NOTIC: [2] openssl_verify(): supplied key param cannot be coerced into a public key E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\aop\AopClient.php 第 612 行.
+NOTIC: [2] openssl_verify(): supplied key param cannot be coerced into a public key E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\aop\AopClient.php 第 612 行.
+ERR: check sign Fail! [sign=IdKBh78dEWuCYtFyoMAh8dXQLFKG0Sm69FP9b+skh+aWFmtUXK9y8MxFYxyHU3ufMurKgZQFK0eIhkrL9O0+iVgpft/IWsA7wDLP/s2UUoRztRL7/hSb9aVqw0+vYcIOcsKgBbCBvIkCT6wiaYDkjYstPlXEQSFk9aIfJbTtqVQ=, signSourceData={"code":"10000","msg":"Success","out_trade_no":"121354545","qr_code":"https://qr.alipay.com/bax06704vxbau5wbzgqf001f"}]
+
+[ 2017-04-18T10:13:58+08:00 ] ::1 /ScanPay/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000394s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000508s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000542s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000114s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000222s ]
+NOTIC: [8] Undefined variable: storeId E:\wwwroot\scanPay\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+NOTIC: [8] Undefined variable: operatorId E:\wwwroot\scanPay\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+NOTIC: [8] Undefined variable: alipayStoreId E:\wwwroot\scanPay\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+NOTIC: [2] file_put_contents(log/log.txt): failed to open stream: No such file or directory E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\f2fpay\service\AlipayTradeService.php 第 359 行.
+NOTIC: [2] openssl_verify(): supplied key param cannot be coerced into a public key E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\aop\AopClient.php 第 612 行.
+NOTIC: [2] openssl_verify(): supplied key param cannot be coerced into a public key E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\aop\AopClient.php 第 612 行.
+ERR: check sign Fail! [sign=ADTvAeCjFyPzLntruMpBFG4vJz2UC11awNOQYTB5yC+YjufLeurI2oNhm6dN+JZhg8+CJg5w2DPkEHbJgA68Zai2fQKFkfyCv1mvFV+gYRuLQBV24HeUgsdvTl+e1zd6erOuU1BSt+d3u1gLWUYIQHWzcNA/yWLbqlJ8bHJ5h6I=, signSourceData={"code":"10000","msg":"Success","out_trade_no":"121354545","qr_code":"https://qr.alipay.com/bax07956ovom76l9ryks00ae"}]
+
+[ 2017-04-18T10:14:00+08:00 ] ::1 /ScanPay/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000346s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000460s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000492s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000082s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000139s ]
+NOTIC: [8] Undefined variable: storeId E:\wwwroot\scanPay\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+NOTIC: [8] Undefined variable: operatorId E:\wwwroot\scanPay\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+NOTIC: [8] Undefined variable: alipayStoreId E:\wwwroot\scanPay\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+NOTIC: [2] file_put_contents(log/log.txt): failed to open stream: No such file or directory E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\f2fpay\service\AlipayTradeService.php 第 359 行.
+NOTIC: [2] openssl_verify(): supplied key param cannot be coerced into a public key E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\aop\AopClient.php 第 612 行.
+NOTIC: [2] openssl_verify(): supplied key param cannot be coerced into a public key E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\aop\AopClient.php 第 612 行.
+ERR: check sign Fail! [sign=YN2D2+j9fYjpY+TM+hns3tqt5Kytw3lfjmM6dggFglnogJB6VanJ+c0g4xsFMSMT/FCQMzpjjrzC/9MjeQQ30DonYSXTcO7kTLwlQXNKNNxnJeRKr5KllB+Hs90LdY2WeMyN19HeXBNv3wmfeClcbJ/zOY08ACa0T5/q40sFOj8=, signSourceData={"code":"10000","msg":"Success","out_trade_no":"121354545","qr_code":"https://qr.alipay.com/bax062029pmwrqrnppt800d2"}]
+
+[ 2017-04-18T10:17:16+08:00 ] ::1 /ScanPay/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000374s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000496s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000529s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000066s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000106s ]
+NOTIC: [8] Undefined variable: storeId E:\wwwroot\scanPay\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+NOTIC: [8] Undefined variable: operatorId E:\wwwroot\scanPay\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+NOTIC: [8] Undefined variable: alipayStoreId E:\wwwroot\scanPay\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+NOTIC: [2] file_put_contents(log/log.txt): failed to open stream: No such file or directory E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\f2fpay\service\AlipayTradeService.php 第 359 行.
+NOTIC: [2] openssl_verify(): supplied key param cannot be coerced into a public key E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\aop\AopClient.php 第 612 行.
+NOTIC: [2] openssl_verify(): supplied key param cannot be coerced into a public key E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\aop\AopClient.php 第 612 行.
+ERR: check sign Fail! [sign=PDkeou3c6We/QMUakUn4sCdv1kUNP5UxpnvNR1PG2EkKQSbXIpKRHPRFWp2l61rn8NgmHOyitqR3EV1AEr3szV7adXbUfRsjh0fsmIjkgO7NPiVdECzng8GX3DU2N0P7Dg9nHktk7VKQqPHig+gmlAlwwcbfIdhOe01ADsXf4sA=, signSourceData={"code":"10000","msg":"Success","out_trade_no":"121354545","qr_code":"https://qr.alipay.com/bax07224owxuesgaj6120031"}]
+
+[ 2017-04-18T10:19:17+08:00 ] ::1 /ScanPay/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000324s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000441s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000481s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000070s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000114s ]
+NOTIC: [8] Undefined variable: storeId E:\wwwroot\scanPay\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+NOTIC: [8] Undefined variable: operatorId E:\wwwroot\scanPay\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+NOTIC: [8] Undefined variable: alipayStoreId E:\wwwroot\scanPay\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+NOTIC: [2] file_put_contents(log/log.txt): failed to open stream: No such file or directory E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\f2fpay\service\AlipayTradeService.php 第 359 行.
+NOTIC: [2] openssl_verify(): supplied key param cannot be coerced into a public key E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\aop\AopClient.php 第 612 行.
+NOTIC: [2] openssl_verify(): supplied key param cannot be coerced into a public key E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\aop\AopClient.php 第 612 行.
+ERR: check sign Fail! [sign=ZWSRIEXhBFS8xz5UoFf5dpzGt0qb7EwUPJ5ffX9qosFBhtXRPgXpYe0/28Axen8O2fUa8/7QOCr5FWpHz33s1IxAnkgVvlE77NqA5V3zgRG132vy6+qXOt28NSj6qRuV9lTlEdxRLRseZXstNroFA6eB9ixdg5H655yzWO7/FRg=, signSourceData={"code":"10000","msg":"Success","out_trade_no":"121354545","qr_code":"https://qr.alipay.com/bax062761smybzucfa9c0035"}]
+
+[ 2017-04-18T10:20:12+08:00 ] ::1 /ScanPay/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000363s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000475s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000508s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000063s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000103s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.144358s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.144409s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000336s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000362s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000455s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000482s ]
+
+[ 2017-04-18T10:20:21+08:00 ] ::1 /ScanPay/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000302s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000425s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000474s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000071s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000121s ]
+NOTIC: [8] Undefined variable: storeId E:\wwwroot\scanPay\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+NOTIC: [8] Undefined variable: operatorId E:\wwwroot\scanPay\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+NOTIC: [8] Undefined variable: alipayStoreId E:\wwwroot\scanPay\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+NOTIC: [2] file_put_contents(log/log.txt): failed to open stream: No such file or directory E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\f2fpay\service\AlipayTradeService.php 第 359 行.
+NOTIC: [2] openssl_verify(): supplied key param cannot be coerced into a public key E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\aop\AopClient.php 第 612 行.
+NOTIC: [2] openssl_verify(): supplied key param cannot be coerced into a public key E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\aop\AopClient.php 第 612 行.
+ERR: check sign Fail! [sign=GJci2OsAEGcwJAZoFLpYMlZo/atRA0SSbIl69i59CmY7mO+IIn3/ltfLkPHgs7rfZbvSPsHxBrWpCIbq5lEcp3dZve8AH8t/MhfoDqAqrsUgaZII9RA+JK8fsHJJCjtfb1GtjY7QmlubNsr7vgt0cnRCYasKDnXfCMyk8A0JG/I=, signSourceData={"code":"10000","msg":"Success","out_trade_no":"15465445656","qr_code":"https://qr.alipay.com/bax07048pqrskuvbeseq0024"}]
+
+[ 2017-04-18T10:22:31+08:00 ] ::1 /ScanPay/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000347s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000823s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000883s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000065s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000101s ]
+NOTIC: [8] Undefined variable: storeId E:\wwwroot\scanPay\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+NOTIC: [8] Undefined variable: operatorId E:\wwwroot\scanPay\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+NOTIC: [8] Undefined variable: alipayStoreId E:\wwwroot\scanPay\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+NOTIC: [2] file_put_contents(log/log.txt): failed to open stream: No such file or directory E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\f2fpay\service\AlipayTradeService.php 第 359 行.
+
+[ 2017-04-18T11:04:15+08:00 ] ::1 /ScanPay/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000337s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000494s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000540s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000064s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000100s ]
+NOTIC: [8] Undefined variable: storeId E:\wwwroot\scanPay\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+NOTIC: [8] Undefined variable: operatorId E:\wwwroot\scanPay\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+NOTIC: [8] Undefined variable: alipayStoreId E:\wwwroot\scanPay\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+NOTIC: [2] file_put_contents(log/log.txt): failed to open stream: No such file or directory E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\f2fpay\service\AlipayTradeService.php 第 359 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.674733s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.674825s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001181s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001561s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001939s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002095s ]
+
