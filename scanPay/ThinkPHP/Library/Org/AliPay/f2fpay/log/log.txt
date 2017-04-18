@@ -10,3 +10,4 @@
 2016-12-09 04:09:08  {"out_trade_no":"2016120912341"}
 2016-12-10 11:37:27  {"out_trade_no":"2016120912341"}
 2016-12-10 11:39:41  {"out_trade_no":"2016120912341"}
+2017-04-18 07:48:21  {"out_trade_no":"2348274824823","total_amount":"0.01","timeout_express":"5m","subject":"测试","body":"购买商品2件共15.00元","undiscountable_amount":"0.01","extend_params":{"sys_service_provider_id":""},"goods_detail":[{"goods_id":"apple-01","goods_name":"iphone","price":3000,"quantity":1},{"goods_id":"apple-02","goods_name":"ipad","price":1000,"quantity":1}],"store_id":"test_store_id","operator_id":"test_operator_id","alipay_store_id":"test_alipay_store_id"}

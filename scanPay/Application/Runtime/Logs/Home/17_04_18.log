@@ -1205,3 +1205,298 @@ INFO: [ app_end ] --START--
 INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001939s ]
 INFO: [ app_end ] --END-- [ RunTime:0.002095s ]
 
+[ 2017-04-18T12:50:00+08:00 ] ::1 /ScanPay/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000404s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000436s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000469s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000066s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000104s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.135671s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.135715s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000297s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000322s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000435s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000461s ]
+
+[ 2017-04-18T12:50:10+08:00 ] ::1 /ScanPay/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000328s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000494s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000546s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000089s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000140s ]
+NOTIC: [8] Undefined variable: storeId E:\wwwroot\scanPay\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+NOTIC: [8] Undefined variable: operatorId E:\wwwroot\scanPay\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+NOTIC: [8] Undefined variable: alipayStoreId E:\wwwroot\scanPay\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+ERR: appid should not be NULL!
+
+[ 2017-04-18T15:41:05+08:00 ] ::1 /ScanPay/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001108s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.009292s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009392s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000105s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000169s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.343840s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.343911s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.025455s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.025498s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006750s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006784s ]
+
+[ 2017-04-18T15:41:45+08:00 ] ::1 /ScanPay/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000513s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000477s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000517s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000107s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000169s ]
+NOTIC: [8] Undefined variable: storeId E:\wwwroot\scanPay\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+NOTIC: [8] Undefined variable: operatorId E:\wwwroot\scanPay\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+NOTIC: [8] Undefined variable: alipayStoreId E:\wwwroot\scanPay\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+NOTIC: [2] file_put_contents(log/log.txt): failed to open stream: No such file or directory E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\f2fpay\service\AlipayTradeService.php 第 359 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.433277s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.433323s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001354s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001439s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001906s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002022s ]
+
+[ 2017-04-18T15:41:51+08:00 ] ::1 /ScanPay/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000425s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000596s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000655s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000064s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000104s ]
+NOTIC: [8] Undefined variable: storeId E:\wwwroot\scanPay\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+NOTIC: [8] Undefined variable: operatorId E:\wwwroot\scanPay\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+NOTIC: [8] Undefined variable: alipayStoreId E:\wwwroot\scanPay\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+NOTIC: [2] file_put_contents(log/log.txt): failed to open stream: No such file or directory E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\f2fpay\service\AlipayTradeService.php 第 359 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.385924s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.385976s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000353s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000380s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000458s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000487s ]
+
+[ 2017-04-18T15:42:15+08:00 ] ::1 /ScanPay/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000563s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000475s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000515s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000062s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000092s ]
+NOTIC: [8] Undefined variable: storeId E:\wwwroot\scanPay\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+NOTIC: [8] Undefined variable: operatorId E:\wwwroot\scanPay\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+NOTIC: [8] Undefined variable: alipayStoreId E:\wwwroot\scanPay\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+NOTIC: [2] file_put_contents(log/log.txt): failed to open stream: No such file or directory E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\f2fpay\service\AlipayTradeService.php 第 359 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.411454s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.411568s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001716s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001864s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003221s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003527s ]
+
+[ 2017-04-18T15:42:58+08:00 ] ::1 /ScanPay/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000396s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000443s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000476s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000100s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000148s ]
+NOTIC: [8] Undefined variable: storeId E:\wwwroot\scanPay\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+NOTIC: [8] Undefined variable: operatorId E:\wwwroot\scanPay\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+NOTIC: [8] Undefined variable: alipayStoreId E:\wwwroot\scanPay\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+NOTIC: [2] file_put_contents(log/log.txt): failed to open stream: No such file or directory E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\f2fpay\service\AlipayTradeService.php 第 359 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:1.264231s ]
+INFO: [ view_parse ] --END-- [ RunTime:1.264277s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001003s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001053s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001147s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001186s ]
+
+[ 2017-04-18T15:43:03+08:00 ] ::1 /ScanPay/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000487s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000736s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000770s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000063s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000105s ]
+NOTIC: [8] Undefined variable: storeId E:\wwwroot\scanPay\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+NOTIC: [8] Undefined variable: operatorId E:\wwwroot\scanPay\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+NOTIC: [8] Undefined variable: alipayStoreId E:\wwwroot\scanPay\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+NOTIC: [2] file_put_contents(log/log.txt): failed to open stream: No such file or directory E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\f2fpay\service\AlipayTradeService.php 第 359 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.546245s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.546311s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001211s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001257s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001397s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001448s ]
+
+[ 2017-04-18T15:43:24+08:00 ] ::1 /ScanPay/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000387s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000746s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000780s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000063s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000109s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.317019s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.317066s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000594s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000621s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000803s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000836s ]
+
+[ 2017-04-18T15:43:33+08:00 ] ::1 /ScanPay/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000452s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001380s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001470s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000062s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000102s ]
+NOTIC: [8] Undefined variable: storeId E:\wwwroot\scanPay\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+NOTIC: [8] Undefined variable: operatorId E:\wwwroot\scanPay\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+NOTIC: [8] Undefined variable: alipayStoreId E:\wwwroot\scanPay\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 1 行.
+NOTIC: [2] file_put_contents(log/log.txt): failed to open stream: No such file or directory E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\f2fpay\service\AlipayTradeService.php 第 359 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.542729s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.542777s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000649s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000676s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000760s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000786s ]
+
+[ 2017-04-18T15:44:45+08:00 ] ::1 /ScanPay/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000531s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000849s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000892s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000065s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000098s ]
+NOTIC: [2] file_put_contents(log/log.txt): failed to open stream: No such file or directory E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\f2fpay\service\AlipayTradeService.php 第 359 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.549752s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.549798s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000714s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000740s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000827s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000855s ]
+
+[ 2017-04-18T15:44:52+08:00 ] ::1 /ScanPay/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000429s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000478s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000539s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000062s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000102s ]
+NOTIC: [2] file_put_contents(log/log.txt): failed to open stream: No such file or directory E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\f2fpay\service\AlipayTradeService.php 第 359 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.518464s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.518514s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000689s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000715s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000761s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000789s ]
+
+[ 2017-04-18T15:52:44+08:00 ] ::1 /ScanPay/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000403s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000475s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000509s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000072s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000113s ]
+
+[ 2017-04-18T15:56:41+08:00 ] ::1 /ScanPay/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000401s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000699s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000758s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000068s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000109s ]
+NOTIC: [2] file_put_contents(log/log.txt): failed to open stream: No such file or directory E:\wwwroot\scanPay\ThinkPHP\Library\Org\AliPay\f2fpay\service\AlipayTradeService.php 第 359 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:1.048105s ]
+INFO: [ view_parse ] --END-- [ RunTime:1.048185s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000743s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000802s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001182s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001247s ]
+

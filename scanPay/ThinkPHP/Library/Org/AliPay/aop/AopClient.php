@@ -461,7 +461,7 @@ class AopClient {
 			$respObject = json_decode($r);
 			if (null !== $respObject) {
 				$respWellFormed = true;
-				$signData = $this->parserJSONSignData($request, $resp, $respObject);			
+				$signData = $this->parserJSONSignData($request, $resp, $respObject);
 			}
 		} else if ("xml" == $this->format) {
 
@@ -608,7 +608,7 @@ class AopClient {
 
 		if ("RSA2" == $signType) {
 			$result = (bool)openssl_verify($data, base64_decode($sign), $res, OPENSSL_ALGO_SHA256);
-		} else {			
+		} else {
 			$result = (bool)openssl_verify($data, base64_decode($sign), $res);
 		}
 
@@ -911,6 +911,7 @@ class AopClient {
 	 * @throws Exception
 	 */
 	public function checkResponseSign($request, $signData, $resp, $respObject) {
+
 		if (!$this->checkEmpty($this->alipayPublicKey) || !$this->checkEmpty($this->alipayrsaPublicKey)) {
 
 

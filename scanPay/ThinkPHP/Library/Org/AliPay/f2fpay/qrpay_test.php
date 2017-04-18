@@ -86,8 +86,8 @@ if (!empty($_POST['out_trade_no'])&& trim($_POST['out_trade_no'])!=""){
 	$qrPayRequestBuilder->setUndiscountableAmount($undiscountableAmount);
 	$qrPayRequestBuilder->setExtendParams($extendParamsArr);
 	$qrPayRequestBuilder->setGoodsDetailList($goodsDetailList);
-	// $qrPayRequestBuilder->setStoreId($storeId);
-	// $qrPayRequestBuilder->setOperatorId($operatorId);
+	$qrPayRequestBuilder->setStoreId($storeId);
+	$qrPayRequestBuilder->setOperatorId($operatorId);
 	$qrPayRequestBuilder->setAlipayStoreId($alipayStoreId);
 
 	$qrPayRequestBuilder->setAppAuthToken($appAuthToken);

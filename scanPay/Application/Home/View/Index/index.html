@@ -33,13 +33,13 @@ if (!empty($_POST['out_trade_no'])&& trim($_POST['out_trade_no'])!=""){
 	$body = "购买商品2件共15.00元";
 
 	//商户操作员编号，添加此参数可以为商户操作员做销售统计
-	// $operatorId = "test_operator_id";
+	$operatorId = "test_operator_id";
 
 	// (可选) 商户门店编号，通过门店号和商家后台可以配置精准到门店的折扣信息，详询支付宝技术支持
-	// $storeId = "test_store_id";
+	$storeId = "test_store_id";
 
 	// 支付宝的店铺编号
-	// $alipayStoreId= "test_alipay_store_id";
+	$alipayStoreId= "test_alipay_store_id";
 
 	// 业务扩展参数，目前可添加由支付宝分配的系统商编号(通过setSysServiceProviderId方法)，系统商开发使用,详情请咨询支付宝技术支持
 	$providerId = ""; //系统商pid,作为系统商返佣数据提取的依据
@@ -86,9 +86,9 @@ if (!empty($_POST['out_trade_no'])&& trim($_POST['out_trade_no'])!=""){
 	$qrPayRequestBuilder->setUndiscountableAmount($undiscountableAmount);
 	$qrPayRequestBuilder->setExtendParams($extendParamsArr);
 	$qrPayRequestBuilder->setGoodsDetailList($goodsDetailList);
-	$qrPayRequestBuilder->setStoreId($storeId);
-	$qrPayRequestBuilder->setOperatorId($operatorId);
-	$qrPayRequestBuilder->setAlipayStoreId($alipayStoreId);
+	// $qrPayRequestBuilder->setStoreId($storeId);
+	// $qrPayRequestBuilder->setOperatorId($operatorId);
+	// $qrPayRequestBuilder->setAlipayStoreId($alipayStoreId);
 
 	$qrPayRequestBuilder->setAppAuthToken($appAuthToken);
 
@@ -158,7 +158,7 @@ ul,ol{
 
 .new-btn-login{
     background-color: transparent;
-    background-image: url("./ThinkPHP/Library/Org/AliPay/img/new-btn-fixed.png");
+    background-image: url("../img/new-btn-fixed.png");
     border: medium none;
 }
 .new-btn-login{
