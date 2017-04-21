@@ -2,6 +2,25 @@
 namespace Home\Controller;
 use Think\Controller;
 class IndexController extends Controller {
+	function __construct()
+	{
+		parent::__construct();
+		//此处数据写在配置文件中，也可以写在数据库中，具体随意
+		$this->_alipay_config=array(
+			'partner'=>C('partner'),//合作身份者id，以2088开头的16位纯数字
+			'private_key_path'=>C('private_key_path'),//商户的私钥（后缀是.pen）文件相对路径
+			'ali_public_key_path'=>C('ali_public_key_path'),//支付宝公钥（后缀是.pen）文件相对路径
+			'sign_type'=>C('sign_type'),//签名方式 不需修改
+			'input_charset'=>C('input_charset'),//字符编码格式 目前支持 gbk 或 utf-8
+			'cacert'=>C('cacert'),//ca证书路径地址，用于curl中ssl校验
+			'transport'=>C('transport'),//访问模式,根据自己的服务器是否支持ssl访问，若支持请选择https；若不支持请选择http
+		);
+		$this->_out_trade_no=I('post.out_trade_no');//订单号
+		$this->_spbill_create_ip=I('post.spbill_create_ip');//客户端IP
+		$this->_trade_status=I('post.trade_status');//订单状态
+		$this->_zfb_result=I('post.zfb_result');//支付宝同步交易信息
+	}
+
     public function index(){
         $this->display();
     }
@@ -25,7 +44,7 @@ class IndexController extends Controller {
             //     return;
             // }
             if(!$_POST['total_fee']){
-                echo 'fail';
+                echo 'fail';                                          
                 return ;
             }
             $this->_total_fee = $_POST['total_fee'];
@@ -49,7 +68,7 @@ class IndexController extends Controller {
 	{	    
 		require_once('./ThinkPHP/Library/Org/AliPay/lib/alipay_notify.class.php');
 		// 计算得出通知验证结果
-		$alipayNotify = new \AlipayNotify($this->_alipay_config);//此处根据实际情况进行修改
+		$alipayNotify = new \AlipayNotify($this->_alipay_config);//该配置信息在该文件第8行
 		//验证信息
         /*echo '<pre>';
         var_dump($alipayNotify);
